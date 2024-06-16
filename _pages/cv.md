@@ -11,37 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in Finanial Mathematics, Peking University, 2023-2025 (expected)
+* B.S. in Actuarial Science, University of International Business and Economics, 2019-2023
+
+
+Awards & Honors
+======
+- National Scholarship (2020, 2022)
+- Comprehensive First-Class Scholarship (2020, 2021, 2022)
+- Outstanding Student Award (2020, 2021, 2022)
+- Outstanding Graduate of Beijing (2023)
+- Special Scholarship for Graduate Students (2023)
+- First Prize in the National Mathematics Competition for College Students (2020, 2021)
+- First Prize in the National Mathematics Modeling Competition for College Students (2021)
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023: Quantitative Researcher
+  * Luoshu Investment, Proprietary Options Trading, Shanghai
+  * Duties includes: 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2023: Quantitative Researcher
+  * Lingjun Investment, Option, Beijing
+  * Duties included: 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* Fall 2022: Quantitative Researcher
+  * LianHai Fund, Stock, Beijing
+  * Duties included: 
+ 
+Programming Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++
+* Linux
+* Python
+* Latex, Gurobi, git, ... 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -52,13 +58,4 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+   -->
