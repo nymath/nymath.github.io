@@ -8,7 +8,7 @@ author_profile: true
 
 ## Pricing Vulnerable Spread Options under an Intensity-based Model
 
-This paper proposes an intensity-based model to price spread options with default risk. Default risk is captured by a Cox process, whose intensity is correlated with the volatility. We also propose a more general correlation struction that previous works.   
+This paper proposes an intensity-based model to price spread options with default risk. Default risk is captured by a Cox process, whose intensity is correlated with the volatility. We also propose a more general correlation structure than previous works.   
 [Download Paper](https://nymath.github.io/files/spread_option.pdf)
 
 ## RGBoost: A revised gradient direction boosting machine
