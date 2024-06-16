@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](https://nymath.github.io/files/cv-en.pdf)
+[PDF version](https://nymath.github.io/files/cv_en.pdf)
 
 Education
 ======
